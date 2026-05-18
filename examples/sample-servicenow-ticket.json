@@ -1,0 +1,7 @@
+{
+  "TicketID":"INC001234",
+  "User":"user@example.com",
+  "RiskLevel":"High",
+  "Action":"Account blocked",
+  "Reason":"High-risk password reset request"
+}
