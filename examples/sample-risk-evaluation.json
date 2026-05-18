@@ -1,0 +1,7 @@
+{
+  "User":"user@example.com",
+  "DeviceCompliance":"Compliant",
+  "MFA":"Verified",
+  "Risk":"Medium",
+  "Action":"Step-Up Authentication"
+}
